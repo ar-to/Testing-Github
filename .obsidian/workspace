@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "2f40df6766c5a574",
+    "type": "split",
+    "children": [
+      {
+        "id": "61cdc9b776a69082",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Start Here.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1a0f8f22e986f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd83e94f79e6db1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a459c619648a3487",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d1dbdc23f2a5f9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b8e029e5f836bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "071633d9a609c830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ee4dc7a392092d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Start Here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "61cdc9b776a69082",
+  "lastOpenFiles": [
+    "Start Here.md"
+  ]
+}
