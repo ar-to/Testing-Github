@@ -79,13 +79,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "9522d3e13d21211f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "61cdc9b776a69082",
   "lastOpenFiles": [
