@@ -1,5 +1,7 @@
 # Start Here
-Test
+```toc
+	style: number
+```
 
 ## Heading
 
