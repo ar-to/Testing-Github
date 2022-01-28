@@ -87,9 +87,19 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "b16353c4e343bc58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Start Here.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
