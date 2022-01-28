@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test.md",
+            "file": "Readme.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -107,7 +107,7 @@
   },
   "active": "61cdc9b776a69082",
   "lastOpenFiles": [
-    "Test.md",
-    "Readme.md"
+    "Readme.md",
+    "Test.md"
   ]
 }
