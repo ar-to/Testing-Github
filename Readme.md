@@ -1,5 +1,6 @@
 # Start Here
 
+
 ```toc
 	style: number
 ```
@@ -15,3 +16,5 @@ another test of git
 ## Heading again
 ### Again
 ### And Again
+
+[[Test]]
